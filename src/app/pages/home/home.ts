@@ -16,7 +16,7 @@ import { Hero } from '../../shared/hero/hero';
   styleUrl: './home.css',
 })
 export class Home {
-  titre = `Modern Interior Design Studio`;
+  titre = 'Modern Interior Design Studio';
   description = "Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique.";
   cta1 = "Shop Now";
   cta2 = "Explore";
